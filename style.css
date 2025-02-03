@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+#header {
+  position: sticky;
+  top: 0;
+
+  background-color: rgba(0, 0, 0, 0.9);
+  color: white;
+
+  padding: 30px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.logo {
+  /* background-color: purple; */
+
+  width: 150px;
+}
+
+.nav {
+  /* background-color: red; */
+
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.login-button {
+  /* background-color: green; */
+}
