@@ -23,13 +23,13 @@ ul {
 }
 
 .logo {
-  /* background-color: purple; */
+  background-color: purple;
 
   width: 150px;
 }
 
 .nav {
-  /* background-color: red; */
+  background-color: red;
 
   display: flex;
   flex-direction: row;
@@ -37,5 +37,5 @@ ul {
 }
 
 .login-button {
-  /* background-color: green; */
+  background-color: green;
 }
